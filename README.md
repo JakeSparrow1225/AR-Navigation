@@ -1,4 +1,4 @@
-# Slack Discussion Bot System
+# SurfAR
 
 ## 概要
 - 学内情報に特化したChatbot　✕　ARを活用した経路案内
